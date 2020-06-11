@@ -2,8 +2,8 @@
 
 ### How to run a project
 1. Clone repository
-2. Run ```composer install```
-3. Create a new database
+2. Run ```composer install``` and ```composer dump-autoload```
+3. Create a new database 'application' with 2 tables: 'applications' (id(int), email(varchar), amount(int)), 'deals' (id(int), application_id(int), partner(varchar), status(varchar))
 4. Go to ```App/Core/Config/data.php``` and edit ```'username' => '...' ``` and ```'password' => '...' ``` fields
 5. Run ```php -S localhost:8000```
 
