@@ -1,4 +1,4 @@
-![demonstration](https://im2.ezgif.com/tmp/ezgif-2-8b63e1498b5f.gif)
+![demonstration](loan.gif)
 
 ### How to run a project
 1. Clone repository
