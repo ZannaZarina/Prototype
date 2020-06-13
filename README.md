@@ -1,5 +1,5 @@
 
-![demonstration](loan.gif)
+![demonstration](https://raw.githubusercontent.com/ZannaZarina/Prototype/master/loan.gif)
 
 ### How to run a project
 1. Clone repository
